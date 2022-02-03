@@ -4,7 +4,7 @@
 The purpose of this is visualize the data from New York City's Citi Bike Program. Conclusions drawn from the visualization will help to see if starting a siimlar bike share business in Des Moines, Iowa will be plausible.
 
 ## Results
-- Typical checkout times for bikes was 5 minutes.
+- Typical checkout times for bikes were 5 minutes.
 ![](https://github.com/jlynw/bikesharing/blob/main/Images/checkouttimesforusers.PNG)
 
 - Most users checking out bikes were males.
