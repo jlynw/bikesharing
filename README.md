@@ -34,3 +34,5 @@ Two visualization suggested for further analysis and exploration would be:
 - top starting locations
 
 Information from these two points of exploration can provide insights on target audiences to build a successful bike sharing business.
+
+[Link to the Dashboard.](https://public.tableau.com/app/profile/judy.wong/viz/NYCitiBikeAnalysis_16439171471370/NYCitiBike?publish=yes)
