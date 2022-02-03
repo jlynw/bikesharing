@@ -7,23 +7,23 @@ The purpose of this is visualize the data from New York City's Citi Bike Program
 - Typical checkout times for bikes were 5 minutes.
 ![](https://github.com/jlynw/bikesharing/blob/main/Images/checkouttimesforusers.PNG)
 
-- Most users checking out bikes were males.
+- The most users checking out bikes were males.
 ![](https://github.com/jlynw/bikesharing/blob/main/Images/checkouttimesbygender.PNG)
 
-- Popular check out times on weekdays at 8AM, 5PM, and 6PM.
-- Pouular checkout times on weekends were typically between 10AM to 5PM
+- Popular check out times on weekdays were at 8AM, 5PM, and 6PM.
+- Pouular checkout times on weekends were typically between 10AM to 5PM.
 ![](https://github.com/jlynw/bikesharing/blob/main/Images/tripsbyweekdayperhour.PNG)
 
-- Most users were male checking out bikes during typical commuting times (8AM and 5-6PM).
+- The most users were males who checked out bikes during typical commuting times (8AM and 5-6PM).
 ![](https://github.com/jlynw/bikesharing/blob/main/Images/tripsbygender.png)
 
-- Popular users of bike sharing were male subscribers.
+- The most types users of bike sharing were male subscribers.
 ![](https://github.com/jlynw/bikesharing/blob/main/Images/usertripsbygender.PNG)
 
-- Most users were in their 50s and 30s.
+- The most users were in their 50s and 30s.
 ![](https://github.com/jlynw/bikesharing/blob/main/Images/ageofusers.PNG)
 
-- Top starting locations were in Manhattan. 
+- The top starting locations were in Manhattan. 
 ![](https://github.com/jlynw/bikesharing/blob/main/Images/topstartinglocations.PNG)
 
 ## Results
