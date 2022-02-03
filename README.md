@@ -33,4 +33,4 @@ Two visualization suggested for further analysis and exploration would be:
 - the ages of users
 - top starting locations
 
-Information from these two point of exploration can provide insight on target audiences to build a successful bike sharing business.
+Information from these two points of exploration can provide insights on target audiences to build a successful bike sharing business.
